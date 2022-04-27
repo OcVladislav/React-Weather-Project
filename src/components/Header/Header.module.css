@@ -1,0 +1,11 @@
+.header {
+  background-color: rgb(224, 222, 222);
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-style: italic;
+}
